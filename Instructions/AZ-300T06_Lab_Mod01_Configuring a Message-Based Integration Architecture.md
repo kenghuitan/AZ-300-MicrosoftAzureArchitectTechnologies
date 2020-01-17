@@ -139,7 +139,9 @@ The main tasks for this exercise are as follows:
 
 1. On the **Function App runtime stack** blade, ensure that the **.NET** entry appears in the **Function Runtime stack** drop down list and click **Go**.
 
-1. On the **Choose a template below or go to the quickstart** blade, click **Azure Blob Storage trigger** template.
+1. On the **Choose a template below or go to the quickstart** blade, Select **In-Portal** and click on **Continue**.
+
+1. Select **More Templates...**, click on **Finish and view templates**.  Select **Azure Blob Storage trigger** template.
 
 1. On the **Extensions not Installed** blade, click **Install**. Wait until the installation completes and click **Continue**.
 
